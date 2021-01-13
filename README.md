@@ -1,7 +1,11 @@
+You can see the live demo in  https://khadkauj.github.io/roboApp/ .
+
+ReactJS, Redux, ReactRouter,other ReactRouter libraries, Firebase, Material UI, Tachyons, HTML5/CSS3 and so on...
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-You can view it in https://khadkauj.github.io/roboApp/ .
 ## Available Scripts
 
 In the project directory, you can run:
